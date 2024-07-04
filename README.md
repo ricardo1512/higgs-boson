@@ -1,9 +1,9 @@
 # Universitat de Barcelona, Facultat de Matemàtiques i Informàtica
 
-### Posgraduate in Data Science and Machine Learning
+## Posgraduate in Data Science and Machine Learning
 
-## Data Science in Particle Physics: The Higgs Boson
-### Capstone Project 2023/2024
+### Data Science in Particle Physics: The Higgs Boson
+#### Capstone Project 2023/2024
 #### Ricardo Vicente
 _____
 
