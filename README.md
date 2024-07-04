@@ -3,9 +3,7 @@ Universitat de Barcelona, Facultat de Matemàtiques i Informàtic
 Posgraduate in Data Science and Machine Learning
 
 
-Data Science in Particle Physics
-
-The Higgs Boson
+Data Science in Particle Physics: The Higgs Boson
 
 
 Capstone Project 2023/2024
