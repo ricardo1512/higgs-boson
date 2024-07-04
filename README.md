@@ -87,10 +87,15 @@ The second objective concerns the variables. Which model better adapts to the Lo
 5. Project phases
 
 a. Frame the Problem
+
 b. Get the Data
+
 c. Visualize the Data
+
 d. Prepare the Data
+
 e. Select, Train and Fine-Tune the Models
+
 f. Conclusions
 
 
