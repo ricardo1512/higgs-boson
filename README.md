@@ -1,5 +1,5 @@
-# Universitat de Barcelona
 ## Facultat de Matemàtiques i Informàtica
+# Universitat de Barcelona
 ### Posgraduate in Data Science and Machine Learning
 ## Data Science in Particle Physics: The Higgs Boson
 ### Capstone Project 2023/2024
