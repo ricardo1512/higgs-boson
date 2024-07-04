@@ -1,4 +1,5 @@
-## Universitat de Barcelona, Facultat de Matemàtiques i Informàtica
+# Universitat de Barcelona
+## Facultat de Matemàtiques i Informàtica
 
 <p align="center">
   <b>Universitat de Barcelona, Facultat de Matemàtiques i Informàtica</b>
