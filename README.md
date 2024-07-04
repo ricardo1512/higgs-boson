@@ -1,6 +1,6 @@
 
-<p class="centered-text">
-    <span class="large-bold-text">Universitat de Barcelona, Facultat de Matemàtiques i Informàtica</span>
+<p style="center">
+    <span style="bold">Universitat de Barcelona, Facultat de Matemàtiques i Informàtica</span>
 </p>
 
 
