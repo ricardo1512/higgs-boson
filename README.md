@@ -79,9 +79,9 @@ iii. Class label (categorical):
 
 This is a classification problem to distinguish between a signal process produced by Higgs bosons and a background process that does not.
 
-    The first objective of this work is to analyze the behavior of two types of models: one more 'superficial', such as the Extreme Gradient Boosting Classifier, and others of Deep Learning, such as the Multilayer Perceptrons, using the libraries Keras/Tensorflow and Scikit-learn.
+The first objective of this work is to analyze the behavior of two types of models: one more 'superficial', such as the Extreme Gradient Boosting Classifier, and others of Deep Learning, such as the Multilayer Perceptrons, using the libraries Keras/Tensorflow and Scikit-learn.
 
-    The second objective concerns the variables. Which model better adapts to the Low/High-Level variables? With which types of variables do the models make better predictions? Will the models be capable of learning complex patterns in kinematic data to accurately classify observations into different categories (signal or background), without requiring manual intervention by physicists to create additional features?
+The second objective concerns the variables. Which model better adapts to the Low/High-Level variables? With which types of variables do the models make better predictions? Will the models be capable of learning complex patterns in kinematic data to accurately classify observations into different categories (signal or background), without requiring manual intervention by physicists to create additional features?
 
 
 5. Project phases
