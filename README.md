@@ -5,6 +5,7 @@
 ## Data Science in Particle Physics: The Higgs Boson
 ### Capstone Project 2023/2024
 #### Ricardo Vicente
+_____
 
 Collisions in high-energy particle accelerators are crucial for discovering exotic particles and require Data Analysis approaches to solve 'signal' (1) versus 'background' (0) classification problems. 'Shallow' Machine Learning models have been limited in their ability to learn complex nonlinear functions, leading to a meticulous search for manually constructed nonlinear features.
 
