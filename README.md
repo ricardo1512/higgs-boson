@@ -1,19 +1,8 @@
-<head>
-    <style>
-        .centered-text {
-            text-align: center;
-        }
-        .large-bold-text {
-            font-size: 100px;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <p class="centered-text">
-        <span class="large-bold-text">Universitat de Barcelona, Facultat de Matemàtiques i Informàtica</span>
-    </p>
-</body>
+
+<p class="centered-text">
+    <span class="large-bold-text">Universitat de Barcelona, Facultat de Matemàtiques i Informàtica</span>
+</p>
+
 
 Posgraduate in Data Science and Machine Learning
 
