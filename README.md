@@ -1,4 +1,4 @@
-<p align="center" style="font-weight: bold;"> Universitat de Barcelona, Facultat de Matemàtiques i Informàtic </p>
+<b align="center" > Universitat de Barcelona, Facultat de Matemàtiques i Informàtic </b>
 
 Posgraduate in Data Science and Machine Learning
 
