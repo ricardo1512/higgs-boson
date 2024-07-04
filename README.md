@@ -1,29 +1,9 @@
 # Universitat de Barcelona
 ## Facultat de Matemàtiques i Informàtica
-
-<p align="center">
-  <b>Universitat de Barcelona, Facultat de Matemàtiques i Informàtica</b>
-</p>
-
-
-
-<p style="text-align: center;">
-    <span style="font-weight: bold;">Universitat de Barcelona, Facultat de Matemàtiques i Informàtica</span>
-</p>
-
-
-Posgraduate in Data Science and Machine Learning
-
-
-Data Science in Particle Physics: The Higgs Boson
-
-
-Capstone Project 2023/2024
-
-Ricardo Vicente
-______
-
-
+### Posgraduate in Data Science and Machine Learning
+## Data Science in Particle Physics: The Higgs Boson
+### Capstone Project 2023/2024
+#### Ricardo Vicente
 
 Collisions in high-energy particle accelerators are crucial for discovering exotic particles and require Data Analysis approaches to solve 'signal' (1) versus 'background' (0) classification problems. 'Shallow' Machine Learning models have been limited in their ability to learn complex nonlinear functions, leading to a meticulous search for manually constructed nonlinear features.
 
