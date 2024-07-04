@@ -1,21 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Universitat de Barcelona</title>
-    <style>
-        .centered-bold-text {
-            text-align: center;
-            font-weight: bold;
-            font-size: 24px; /* Optional: increase the font size */
-        }
-    </style>
-</head>
-<body>
-    <p class="centered-bold-text">
-        Universitat de Barcelona, Facultat de Matemàtiques i Informàtica
-    </p>
-</body>
-</html>
+## Universitat de Barcelona, Facultat de Matemàtiques i Informàtica
+
+<p align="center">
+  <b>Universitat de Barcelona, Facultat de Matemàtiques i Informàtica</b>
+</p>
+
 
 
 <p style="text-align: center;">
