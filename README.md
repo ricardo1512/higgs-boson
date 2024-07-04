@@ -1,6 +1,14 @@
+<!DOCTYPE html>
+<html>
 <head>
     <title>Universitat de Barcelona</title>
 </head>
+<body>
+    <p style="text-align: center; font-weight: bold;">
+        Universitat de Barcelona, Facultat de Matemàtiques i Informàtica
+    </p>
+</body>
+</html>
 
 <p style="text-align: center;">
     <span style="font-weight: bold;">Universitat de Barcelona, Facultat de Matemàtiques i Informàtica</span>
